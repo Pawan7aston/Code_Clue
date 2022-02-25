@@ -7,7 +7,7 @@ price,area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheatin
 10850000,7500,3,3,1,yes,no,yes,no,yes,2,yes,semi-furnished
 10150000,8580,4,3,4,yes,no,no,no,yes,2,yes,semi-furnished
 10150000,16200,5,3,2,yes,no,no,no,no,0,no,unfurnished
-9870000,,4,1,2,yes,yes,yes,no,yes,2,yes,furnished
+9870000,8100,4,1,2,yes,yes,yes,no,yes,2,yes,furnished
 9800000,5750,3,2,4,yes,yes,no,no,yes,1,yes,unfurnished
 9800000,13200,3,1,2,yes,no,yes,no,yes,2,yes,furnished
 9681000,6000,4,3,2,yes,yes,yes,yes,no,2,no,semi-furnished
